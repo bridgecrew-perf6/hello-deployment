@@ -22,7 +22,7 @@ spec:
             name: hello-one
             port:
               number: 80
-  - host: shop.burritops.com
+  - host: blog.burritops.com
     http:
       paths:
       - pathType: Prefix
